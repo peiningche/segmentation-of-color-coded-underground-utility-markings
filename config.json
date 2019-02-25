@@ -1,0 +1,9 @@
+{
+    "MIN_IMAGE_DIMENSION": 600, 
+    "NUM_WORKERS": 10, 
+    "RAW_DIR": "./photos", 
+    "BATCH_SIZE": 5, 
+    "EPOCH_SIZE": 1000, 
+    "INTERIM_DIR": "./data/interim", 
+    "INPUT_SIZE": 256
+}
